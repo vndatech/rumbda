@@ -10,3 +10,5 @@ end
 group :development do
   gem 'byebug'
 end
+
+gem 'bundler', '1.9.9'
